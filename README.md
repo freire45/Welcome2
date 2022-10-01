@@ -2,4 +2,4 @@
  Welcome To Java Programming - Version 2
 
    ## Image
-![Currículo no Computador](welcome_2.png)
+![Currículo no Computador](welcome_2.jpg)
